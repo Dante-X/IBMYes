@@ -46,8 +46,13 @@
 
 打开命令行，右上角选择相应的地区（Dallas），粘贴一键安装脚本：
 
+原指令
 ```shell
 wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/CCChieh/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+```
+替换成自己的
+```shell
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/Dante-X/IBMYes_justsoo/master/install.sh && chmod +x install.sh  && ./install.sh
 ```
 
 ![image-20200615210944753](img/README/image-20200615210944753.png)
